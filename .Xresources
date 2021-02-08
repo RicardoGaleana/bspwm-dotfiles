@@ -1,0 +1,16 @@
+! Colorscheme
+
+#include "/home/ricardo/.config/ColorSchemes/blossom"
+
+! terminal
+
+*.scrollBar: false
+*.internalBorder: 25
+Xcursor.theme: cursor-theme
+
+URxvt.cursorUnderline: true
+URxvt.geometry: 70x18
+URxvt.font: xft: SFMono Nerd Font:size=13
+URxvt.boldFont: xft: SFMono Nerd Font:Bold:size=13
+URxvt.letterSpace: 0
+
